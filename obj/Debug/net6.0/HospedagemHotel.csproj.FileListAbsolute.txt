@@ -1,0 +1,15 @@
+/Users/thaissasena/Desktop/HospedagemHotel/bin/Debug/net6.0/HospedagemHotel
+/Users/thaissasena/Desktop/HospedagemHotel/bin/Debug/net6.0/HospedagemHotel.deps.json
+/Users/thaissasena/Desktop/HospedagemHotel/bin/Debug/net6.0/HospedagemHotel.runtimeconfig.json
+/Users/thaissasena/Desktop/HospedagemHotel/bin/Debug/net6.0/HospedagemHotel.dll
+/Users/thaissasena/Desktop/HospedagemHotel/bin/Debug/net6.0/HospedagemHotel.pdb
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.csproj.AssemblyReference.cache
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.AssemblyInfoInputs.cache
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.AssemblyInfo.cs
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.csproj.CoreCompileInputs.cache
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.dll
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/refint/HospedagemHotel.dll
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.pdb
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/HospedagemHotel.genruntimeconfig.cache
+/Users/thaissasena/Desktop/HospedagemHotel/obj/Debug/net6.0/ref/HospedagemHotel.dll
